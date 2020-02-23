@@ -1,0 +1,27 @@
+body {
+    background-color: lightcyan;
+} 
+
+hr
+{
+   border-style: auto;
+   border-top-style: none;
+   border-width: 5px;
+   border-color: lightpink;
+   height: 1px;
+   width: 100%;
+
+}
+h1{
+    color: lightcoral;
+}
+h3{
+    color: magenta;
+}
+img{
+    border-radius: 50px 50px 0 ;
+    max-width: 200px;
+    height: fit-content;
+    height: auto;
+
+}
